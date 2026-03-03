@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        ".python-version": true,
+        "uv.lock": true,
+        "**/__pycache__": true,
+        // ".venv": true,
+
+    }
+}
