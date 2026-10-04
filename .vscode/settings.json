@@ -4,7 +4,8 @@
         ".python-version": true,
         "uv.lock": true,
         "**/__pycache__": true,
-        // ".venv": true,
-
+        ".venv": true,
+        "src/deep_researcher/":true,
+        ".auth": true
     }
 }
